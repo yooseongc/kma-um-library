@@ -39,6 +39,17 @@
 		<version>2.3.0</version>
 	</dependency>
 	
+	<dependency>
+	    <groupId>edu.ucar</groupId>
+	    <artifactId>cdm</artifactId>
+	    <version>4.5.5</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>edu.ucar</groupId>
+	    <artifactId>grib</artifactId>
+	    <version>4.5.5</version>
+	</dependency>
     
   </dependencies>
 </project>

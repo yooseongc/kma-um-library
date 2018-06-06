@@ -19,3 +19,19 @@ public class GdalRegisterTest {
 	}
 
 }
+
+
+/*
+ *  RUN ENV  ...
+ * 
+ * VM args : -Djava.library.path="C:\release-1911-x64-gdal-2-3-0-mapserver-7-0-7\bin\gdal\java;${env_var:PATH}"
+ * 
+ * ENV : 
+ *   1) PATH : C:\Program Files\GDAL
+ *   2) GDAL_DATA : C:\Program Files\GDAL\gdal-data
+ *   3) GDAL_DRIVER : C:\Program Files\GDAL\gdal\gdalplugins
+ * 
+ */
+
+
+
